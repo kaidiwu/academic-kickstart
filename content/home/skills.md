@@ -21,13 +21,13 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fab"
   name = "SPSS"
   description = ""
