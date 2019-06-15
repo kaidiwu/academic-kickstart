@@ -16,20 +16,20 @@ subtitle = ""
 
 [[feature]]
   icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon_pack = "fas"
+  name = "Experimental Design"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon_pack = "fab"
+  name = "R"
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
 
 +++
