@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fab"
-  name = "R"
+  name = "SPSS"
   description = ""
 
 +++
