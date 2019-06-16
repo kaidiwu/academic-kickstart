@@ -30,10 +30,10 @@ education:
   - course: M.S. in Social Psychology
     institution: University of Michigan
     year: 2017
-  - course: B.A. in Psychology
+  - course: B.A. in Psychology (Honors with High Distinction)
     institution: University of Michigan
     year: 2015
-  - course: B.Mus.A in Piano Performance
+  - course: B.Mus.A in Piano Performance (Highest Honors)
     institution: University of Michigan
     year: 2015
 
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in social psychology working with David Dunning at the University of Michigan. Prior to graduate school, I received my B.A. in Psychology and B.Mus.A in Piano Performance from the University of Michigan.
+I am a Ph.D. candidate in social psychology working with David Dunning at the University of Michigan. Prior to graduate school, I received my B.A. in psychology and B.Mus.A in piano performance from the University of Michigan.
