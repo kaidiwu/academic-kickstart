@@ -20,12 +20,6 @@ subtitle = ""
   name = "Experimental Design"
   description = ""
   
- [[feature]]
-  icon = "r-project"
-  icon_pack = "fas"
-  name = "Psychometrics"
-  description = ""
-  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -37,7 +31,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "SPSS"
   description = ""
-
+ 
+ [[feature]]
+  icon = "r-project"
+  icon_pack = "fas"
+  name = "Psychometrics"
+  description = ""
+  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fab"
