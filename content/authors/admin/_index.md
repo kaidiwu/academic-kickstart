@@ -42,7 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1h_TWQ6NAq5ko0KcF93ZSz9Lcjju20OQm/view?usp=sharing- icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
@@ -51,9 +53,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&pli=1&user=KA3iQPcAAAAJ
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/1h_TWQ6NAq5ko0KcF93ZSz9Lcjju20OQm/view?usp=sharing
 - icon: researchgate
   icon_pack: ai 
   link: https://www.researchgate.net/profile/Kaidi_Wu
