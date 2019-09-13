@@ -54,7 +54,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1h_TWQ6NAq5ko0KcF93ZSz9Lcjju20OQm/view?usp=sharing
-
+- icon: researchgate
+  icon_pack: ai 
+  link: https://www.researchgate.net/profile/Kaidi_Wu
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
