@@ -72,6 +72,6 @@ user_groups:
 
 I am a Ph.D. candidate in social psychology working with David Dunning at the University of Michigan. Prior to graduate school, I received my B.A. in psychology and B.Mus.A in piano performance from the University of Michigan.
 
-My research examines how people grapple with individual and cultural experiences in an increasingly globalized world. In my first line of research, I study how people think and behave outside their cultural conceptual landscape. I show people experience "hypocognition", when they lack cognitive or linguistic representations of concepts to describe ideas or explicate experiences.
-
-My second line of research examines intercultural perception. 
+My research addresses the challenges to people’s understanding of culture and diversity in an increasingly globalized world. I tackle two questions in relation to what fuels social conflict and cultural misunderstanding: 
+1) What are the cognitive and social consequences for lacking cultural knowledge? 
+2) How do cultures perceive each other in an era of globalization, and how does intercultural perception, in turn, shape consumer behavior and hiring decisions?   
