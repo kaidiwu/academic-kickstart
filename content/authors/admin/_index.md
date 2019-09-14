@@ -44,7 +44,9 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1h_TWQ6NAq5ko0KcF93ZSz9Lcjju20OQm/view?usp=sharing- icon: envelope
+  link: https://drive.google.com/file/d/1mxVz-mfcy3n7-ED6Rt1pkQBnB1wSvQD2/view?usp=sharing
+  
+- icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
